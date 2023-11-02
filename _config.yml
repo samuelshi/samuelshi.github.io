@@ -21,7 +21,7 @@ nav-menu:
 - text: About
   permalink: about
 - text: Test
-  permalink: test
+  permalink: RSS
 - text: Blog
   permalink: blog
 
