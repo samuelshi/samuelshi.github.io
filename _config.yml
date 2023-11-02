@@ -3,16 +3,16 @@ baseurl: "" # the name of your github repo
 url: "https://samuelshi.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Personal Website"
+description: This is my personal website
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author: Samuel Shi
+author-bio: Cat person  # change to false to hide
+author-image: cat.jpg  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
