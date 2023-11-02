@@ -19,11 +19,11 @@ show-nav-menu: true
 
 nav-menu:
 - text: Blog
-  permalink: blog
+  permalink: Blog
 - text: RSS
   permalink: RSS
 - text: About
-  permalink: about
+  permalink: About
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
