@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Test
+title: RSS
 permalink: RSS
 ---

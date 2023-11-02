@@ -18,12 +18,12 @@ author-image: cat.jpg  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Test
-  permalink: RSS
 - text: Blog
   permalink: blog
+- text: RSS
+  permalink: RSS
+- text: About
+  permalink: about
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
