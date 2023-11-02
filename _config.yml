@@ -20,8 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: RSS
-  permalink: rss
+- text: Test
+  permalink: test
 - text: Blog
   permalink: blog
 
